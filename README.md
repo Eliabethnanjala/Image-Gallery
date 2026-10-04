@@ -2,9 +2,10 @@
 
 A responsive photo gallery titled **"Explore the World!"** with a lightbox viewer, built with HTML, CSS and JavaScript.
 
-**Live demo:** [https://YOUR-LINK.vercel.app](https://YOUR-LINK.vercel.app)
+**Live demo:** https://imagegallery-five.vercel.app
 
-![Image Gallery screenshot](screenshot.png)
+![Image Gallery screenshot](<img width="839" height="309" alt="Screenshot 2026-10-05 011331" src="https://github.com/user-attachments/assets/7e3ae45a-5149-4fd0-bcee-3df2ee94a080" />
+
 
 ## Features
 
