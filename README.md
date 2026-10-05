@@ -54,6 +54,6 @@ Photos from [Pexels](https://www.pexels.com).
 
 ## Author
 
-**Elizabeth Nanjala Wanyonyi**
+**Elizabeth Nanjala **
 Front-End Developer, Nairobi, Kenya
 GitHub: [@Eliabethnanjala](https://github.com/Eliabethnanjala)
